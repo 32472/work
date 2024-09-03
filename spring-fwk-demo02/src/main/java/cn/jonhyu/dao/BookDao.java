@@ -9,4 +9,3 @@ public interface BookDao {
     int addBook(Book book);
 
 }
-
